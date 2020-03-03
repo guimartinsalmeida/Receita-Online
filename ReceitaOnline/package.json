@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "antd": "^3.26.11",
     "nodemon": "^2.0.2",
     "yarn": "^1.22.0"
   }
